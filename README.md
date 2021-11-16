@@ -1,9 +1,8 @@
-<!-- Credits: https://github.com/dephraiim/dephraiim/blob/master/README.md -->
+# Hello there! 👋
 <br>
 <br>
 <br>
 <p align="center">
-  
   <!-- Python <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> -->
   
   <!-- node --><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
@@ -17,8 +16,29 @@
   
 </p>
 <br>
-<br>
+<br>    
 
+* 🧐   Interested in full stack & automation. Recent focus on backend.
+* 💼   Software Engineer at Cornelsen eCademy & inside GmbH
+* 🎓   Currently studying applied math and computer science at [FH Aachen](https://www.fh-aachen.de/studium/angewandte-mathematik-und-informatik-bsc)
+* 📚   Reading more about Linux and how computers work.
+* 🌱   Learning product discovery and how to build the right things
+* 💻   With 2 years computer science and technology education and 2 years professional development working experience.
+<br>
+<br>
+<hr>
+<p align="center">
+  ✨ <i>Let's get in touch!</i> ✨
+
+<p align="center">
+  <a href="mailto:thorbenbelow@gmail.com"><img src="https://img.icons8.com/material-outlined/30/000000/new-post.png"/></a>
+  <a href="https://gitlab.com/thorbenbelow"><img src="https://img.icons8.com/windows/30/000000/gitlab.png"/></a>
+  <a href="https://hub.docker.com/u/thorbenbelow"><img src="https://img.icons8.com/small/30/000000/docker.png"/></a>
+  <!-- <a href= "https://www.linkedin.com/in/*"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a> -->
+  <!-- <a href= "https://twitter.com/*"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a> -->
+  <!-- <a href= ""><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
+</p>
+<hr>
 <!--
 **thorbenbelow/thorbenbelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
