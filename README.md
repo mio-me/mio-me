@@ -18,7 +18,7 @@
 <br>
 <br>    
 
-* 🧐   Interested in full stack & automation. Recent focus on backend.
+* 🧐   Interested in full stack & automation.
 * 💼   Software Engineer at Cornelsen eCademy & inside GmbH
 * 🎓   Currently studying applied math and computer science at [FH Aachen](https://www.fh-aachen.de/studium/angewandte-mathematik-und-informatik-bsc)
 * 📚   Reading more about Linux and how computers work.
